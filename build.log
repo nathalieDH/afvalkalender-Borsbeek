@@ -1,0 +1,27 @@
+Logfile initialized
+[INFO] logfile = C:\Users\nathalie\My Documents\Titanium Studio Workspace\afvalkalender\build.log
+[DEBUG] C:\Users\nathalie\AppData\Roaming\Titanium\mobilesdk\win32\1.7.5\android\builder.py simulator afvalkalender C:\Program Files\Android\android-sdk C:\Users\nathalie\My Documents\Titanium Studio Workspace\afvalkalender be.afvalkalender 8 HVGA
+[INFO] Building afvalkalender for Android ... one moment
+[INFO] Titanium SDK version: 1.7.5 (11/02/11 17:00 ab20af7)
+[DEBUG] Waiting for device to be ready ...
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[DEBUG] Device connected... (waited 30 seconds)
+[DEBUG] waited 31.041000 seconds on emulator to get ready
+[INFO] Waiting for the Android Emulator to become available
+[DEBUG] be.afvalkalender installed? True
+[INFO] Fastdev server running, deploying in Fastdev mode
+[INFO] Copying project resources..
+[TRACE] COPYING MODIFIED FILE: C:\Users\nathalie\My Documents\Titanium Studio Workspace\afvalkalender\Resources\overzichtKalender.js => C:\Users\nathalie\My Documents\Titanium Studio Workspace\afvalkalender\build\android\bin\assets\Resources\overzichtKalender.js
+[INFO] Tiapp.xml unchanged, skipping class generation
+[DEBUG] Processing Android resource drawables
+[INFO] Waiting for SDCard to become available..
+[INFO] Re-launching application ... afvalkalender
+[INFO] Launching application ... afvalkalender
+[TRACE] Launch output: Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=be.afvalkalender/.AfvalkalenderActivity }
+
