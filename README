@@ -1,18 +1,9 @@
-Welcome to your Appcelerator Titanium Mobile Project
+Examenopdracht Ontwikkeling voor Mobiele Platformen
+----------------------------------------------------
 
-This is a blank project.  Start by editing your application's app.js to 
-make your first mobile project using Titanium.
+Student: De Hertogh Nathalie
 
+Opmerkingen:
+Dit is een Android applicatie die de bewoners van de gemeente Borsbeek een afvalkalender bezorgd op hun Android device. Door deze app kunnen mensen van de gemeente Borsbeek makkelijk alle afhaaldagen zien en welk afval er op die dag wordt opgehaald. Borsbeek werkt niet met zones, overal zijn het dezelfde dagen. Hierdoor hoeven de gebruikers zich niet te registreren. De database staat online (er wordt niet gewerkt met interne opslag). De informatie wordt uit de database gehaald door een php scriptje, dat tevens ook online staat. Dit script creëert een xml list die alle informatie van een bepaalde afhaaldag bezorgd aan de applicatie.
 
-
-----------------------------------
-Stuff our legal folk make us say:
-
-Appcelerator, Appcelerator Titanium and associated marks and logos are 
-trademarks of Appcelerator, Inc. 
-
-Titanium is Copyright (c) 2009-2010 by Appcelerator, Inc. All Rights Reserved.
-
-Titanium is licensed under the Apache Public License (Version 2). Please
-see the LICENSE file for the full license.
-
+Deze app geeft gebruikers een duidelijk zicht op de afvalkalender. Wanneer zij maar in één bepaald soort afval geïnteresseerd zijn, kunnen zij de kalender filteren op die bepaalde naam. Zij kunnen hier ook informatie vinden over de vuilzakken, wat er al dan niet in mag, en andere nuttige informatie.
