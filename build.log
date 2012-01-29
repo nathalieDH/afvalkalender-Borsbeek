@@ -10,18 +10,122 @@ Logfile initialized
 [TRACE] adb devices returned 1 devices/emulators
 [TRACE] adb devices returned 1 devices/emulators
 [TRACE] adb devices returned 1 devices/emulators
-[TRACE] adb devices returned 1 devices/emulators
-[DEBUG] Device connected... (waited 30 seconds)
-[DEBUG] waited 31.041000 seconds on emulator to get ready
+[DEBUG] Device connected... (waited 25 seconds)
+[DEBUG] waited 25.460000 seconds on emulator to get ready
 [INFO] Waiting for the Android Emulator to become available
 [DEBUG] be.afvalkalender installed? True
 [INFO] Fastdev server running, deploying in Fastdev mode
 [INFO] Copying project resources..
-[TRACE] COPYING MODIFIED FILE: C:\Users\nathalie\My Documents\Titanium Studio Workspace\afvalkalender\Resources\overzichtKalender.js => C:\Users\nathalie\My Documents\Titanium Studio Workspace\afvalkalender\build\android\bin\assets\Resources\overzichtKalender.js
-[INFO] Tiapp.xml unchanged, skipping class generation
+[INFO] Detected tiapp.xml change (or assets deleted), forcing full re-build...
+[TRACE] COPYING CREATED FILE: C:\Users\nathalie\My Documents\Titanium Studio Workspace\afvalkalender\Resources\android\appicon.png => C:\Users\nathalie\My Documents\Titanium Studio Workspace\afvalkalender\build\android\bin\assets\Resources\appicon.png
+[TRACE] COPYING CREATED FILE: C:\Users\nathalie\My Documents\Titanium Studio Workspace\afvalkalender\Resources\android\default.png => C:\Users\nathalie\My Documents\Titanium Studio Workspace\afvalkalender\build\android\bin\assets\Resources\default.png
+[TRACE] COPYING CREATED FILE: C:\Users\nathalie\My Documents\Titanium Studio Workspace\afvalkalender\Resources\app.js => C:\Users\nathalie\My Documents\Titanium Studio Workspace\afvalkalender\build\android\bin\assets\Resources\app.js
+[TRACE] COPYING CREATED FILE: C:\Users\nathalie\My Documents\Titanium Studio Workspace\afvalkalender\Resources\images\gft.png => C:\Users\nathalie\My Documents\Titanium Studio Workspace\afvalkalender\build\android\bin\assets\Resources\images\gft.png
+[TRACE] COPYING CREATED FILE: C:\Users\nathalie\My Documents\Titanium Studio Workspace\afvalkalender\Resources\images\glas.png => C:\Users\nathalie\My Documents\Titanium Studio Workspace\afvalkalender\build\android\bin\assets\Resources\images\glas.png
+[TRACE] COPYING CREATED FILE: C:\Users\nathalie\My Documents\Titanium Studio Workspace\afvalkalender\Resources\images\grofvuil.png => C:\Users\nathalie\My Documents\Titanium Studio Workspace\afvalkalender\build\android\bin\assets\Resources\images\grofvuil.png
+[TRACE] COPYING CREATED FILE: C:\Users\nathalie\My Documents\Titanium Studio Workspace\afvalkalender\Resources\images\kga.png => C:\Users\nathalie\My Documents\Titanium Studio Workspace\afvalkalender\build\android\bin\assets\Resources\images\kga.png
+[TRACE] COPYING CREATED FILE: C:\Users\nathalie\My Documents\Titanium Studio Workspace\afvalkalender\Resources\images\papier.png => C:\Users\nathalie\My Documents\Titanium Studio Workspace\afvalkalender\build\android\bin\assets\Resources\images\papier.png
+[TRACE] COPYING CREATED FILE: C:\Users\nathalie\My Documents\Titanium Studio Workspace\afvalkalender\Resources\images\pmd.png => C:\Users\nathalie\My Documents\Titanium Studio Workspace\afvalkalender\build\android\bin\assets\Resources\images\pmd.png
+[TRACE] COPYING CREATED FILE: C:\Users\nathalie\My Documents\Titanium Studio Workspace\afvalkalender\Resources\images\restafval.png => C:\Users\nathalie\My Documents\Titanium Studio Workspace\afvalkalender\build\android\bin\assets\Resources\images\restafval.png
+[TRACE] COPYING CREATED FILE: C:\Users\nathalie\My Documents\Titanium Studio Workspace\afvalkalender\Resources\images\snoeiresten.png => C:\Users\nathalie\My Documents\Titanium Studio Workspace\afvalkalender\build\android\bin\assets\Resources\images\snoeiresten.png
+[TRACE] COPYING CREATED FILE: C:\Users\nathalie\My Documents\Titanium Studio Workspace\afvalkalender\Resources\main.js => C:\Users\nathalie\My Documents\Titanium Studio Workspace\afvalkalender\build\android\bin\assets\Resources\main.js
+[TRACE] COPYING CREATED FILE: C:\Users\nathalie\My Documents\Titanium Studio Workspace\afvalkalender\Resources\overzichtKalender.js => C:\Users\nathalie\My Documents\Titanium Studio Workspace\afvalkalender\build\android\bin\assets\Resources\overzichtKalender.js
+[TRACE] COPYING CREATED FILE: C:\Users\nathalie\My Documents\Titanium Studio Workspace\afvalkalender\Resources\uitlegApp.js => C:\Users\nathalie\My Documents\Titanium Studio Workspace\afvalkalender\build\android\bin\assets\Resources\uitlegApp.js
+[TRACE] COPYING CREATED FILE: C:\Users\nathalie\My Documents\Titanium Studio Workspace\afvalkalender\Resources\uitlegVuilzakken.js => C:\Users\nathalie\My Documents\Titanium Studio Workspace\afvalkalender\build\android\bin\assets\Resources\uitlegVuilzakken.js
+[TRACE] COPYING CREATED FILE: C:\Users\nathalie\My Documents\Titanium Studio Workspace\afvalkalender\Resources\vuilzakken\gft.js => C:\Users\nathalie\My Documents\Titanium Studio Workspace\afvalkalender\build\android\bin\assets\Resources\vuilzakken\gft.js
+[TRACE] COPYING CREATED FILE: C:\Users\nathalie\My Documents\Titanium Studio Workspace\afvalkalender\Resources\vuilzakken\glas.js => C:\Users\nathalie\My Documents\Titanium Studio Workspace\afvalkalender\build\android\bin\assets\Resources\vuilzakken\glas.js
+[TRACE] COPYING CREATED FILE: C:\Users\nathalie\My Documents\Titanium Studio Workspace\afvalkalender\Resources\vuilzakken\grofvuil.js => C:\Users\nathalie\My Documents\Titanium Studio Workspace\afvalkalender\build\android\bin\assets\Resources\vuilzakken\grofvuil.js
+[TRACE] COPYING CREATED FILE: C:\Users\nathalie\My Documents\Titanium Studio Workspace\afvalkalender\Resources\vuilzakken\kga.js => C:\Users\nathalie\My Documents\Titanium Studio Workspace\afvalkalender\build\android\bin\assets\Resources\vuilzakken\kga.js
+[TRACE] COPYING CREATED FILE: C:\Users\nathalie\My Documents\Titanium Studio Workspace\afvalkalender\Resources\vuilzakken\kringwinkel.js => C:\Users\nathalie\My Documents\Titanium Studio Workspace\afvalkalender\build\android\bin\assets\Resources\vuilzakken\kringwinkel.js
+[TRACE] COPYING CREATED FILE: C:\Users\nathalie\My Documents\Titanium Studio Workspace\afvalkalender\Resources\vuilzakken\papier.js => C:\Users\nathalie\My Documents\Titanium Studio Workspace\afvalkalender\build\android\bin\assets\Resources\vuilzakken\papier.js
+[TRACE] COPYING CREATED FILE: C:\Users\nathalie\My Documents\Titanium Studio Workspace\afvalkalender\Resources\vuilzakken\pmd.js => C:\Users\nathalie\My Documents\Titanium Studio Workspace\afvalkalender\build\android\bin\assets\Resources\vuilzakken\pmd.js
+[TRACE] COPYING CREATED FILE: C:\Users\nathalie\My Documents\Titanium Studio Workspace\afvalkalender\Resources\vuilzakken\recyclagepark.js => C:\Users\nathalie\My Documents\Titanium Studio Workspace\afvalkalender\build\android\bin\assets\Resources\vuilzakken\recyclagepark.js
+[TRACE] COPYING CREATED FILE: C:\Users\nathalie\My Documents\Titanium Studio Workspace\afvalkalender\Resources\vuilzakken\restafval.js => C:\Users\nathalie\My Documents\Titanium Studio Workspace\afvalkalender\build\android\bin\assets\Resources\vuilzakken\restafval.js
+[TRACE] COPYING CREATED FILE: C:\Users\nathalie\My Documents\Titanium Studio Workspace\afvalkalender\Resources\vuilzakken\snoeiresten.js => C:\Users\nathalie\My Documents\Titanium Studio Workspace\afvalkalender\build\android\bin\assets\Resources\vuilzakken\snoeiresten.js
+[TRACE] Generating Java Classes
 [DEBUG] Processing Android resource drawables
+[DEBUG] copying app icon: C:\Users\nathalie\My Documents\Titanium Studio Workspace\afvalkalender\build\android\bin\assets\Resources\appicon.png
+[DEBUG] generating theme.xml
+[DEBUG] found splash screen at C:\Users\nathalie\My Documents\Titanium Studio Workspace\afvalkalender\build\android\bin\assets\Resources\default.png
+[TRACE] Writing out AndroidManifest.xml
+[DEBUG] adding C:\Users\nathalie\My Documents\Titanium Studio Workspace\afvalkalender\build\android\gen\be\afvalkalender\AfvalkalenderActivity.java to javac build list
+[DEBUG] adding C:\Users\nathalie\My Documents\Titanium Studio Workspace\afvalkalender\build\android\gen\be\afvalkalender\AfvalkalenderAppInfo.java to javac build list
+[DEBUG] adding C:\Users\nathalie\My Documents\Titanium Studio Workspace\afvalkalender\build\android\gen\be\afvalkalender\AfvalkalenderApplication.java to javac build list
+[DEBUG] adding C:\Users\nathalie\My Documents\Titanium Studio Workspace\afvalkalender\build\android\gen\be\afvalkalender\R.java to javac build list
+[DEBUG] Building Java Sources: "C:\\Users\\nathalie\\My Documents\\Titanium Studio Workspace\\afvalkalender\\build\\android\\gen\\be\\afvalkalender\\AfvalkalenderActivity.java" "C:\\Users\\nathalie\\My Documents\\Titanium Studio Workspace\\afvalkalender\\build\\android\\gen\\be\\afvalkalender\\AfvalkalenderAppInfo.java" "C:\\Users\\nathalie\\My Documents\\Titanium Studio Workspace\\afvalkalender\\build\\android\\gen\\be\\afvalkalender\\AfvalkalenderApplication.java" "C:\\Users\\nathalie\\My Documents\\Titanium Studio Workspace\\afvalkalender\\build\\android\\gen\\be\\afvalkalender\\R.java"
 [INFO] Waiting for SDCard to become available..
-[INFO] Re-launching application ... afvalkalender
+[INFO] Compiling Android Resources... This could take some time
+[DEBUG] Android classes.dex built
+[DEBUG] creating unsigned apk: C:\Users\nathalie\My Documents\Titanium Studio Workspace\afvalkalender\build\android\bin\app-unsigned.apk
+[DEBUG] from resource zip => assets/Resources/images/gft.png
+[DEBUG] from resource zip => assets/Resources/images/glas.png
+[DEBUG] from resource zip => assets/Resources/images/grofvuil.png
+[DEBUG] from resource zip => assets/Resources/images/kga.png
+[DEBUG] from resource zip => assets/Resources/images/papier.png
+[DEBUG] from resource zip => assets/Resources/images/pmd.png
+[DEBUG] from resource zip => assets/Resources/images/restafval.png
+[DEBUG] from resource zip => assets/Resources/images/snoeiresten.png
+[DEBUG] from resource zip => assets/Resources/vuilzakken/gft.js
+[DEBUG] from resource zip => assets/Resources/vuilzakken/glas.js
+[DEBUG] from resource zip => assets/Resources/vuilzakken/grofvuil.js
+[DEBUG] from resource zip => assets/Resources/vuilzakken/kga.js
+[DEBUG] from resource zip => assets/Resources/vuilzakken/kringwinkel.js
+[DEBUG] from resource zip => assets/Resources/vuilzakken/papier.js
+[DEBUG] from resource zip => assets/Resources/vuilzakken/pmd.js
+[DEBUG] from resource zip => assets/Resources/vuilzakken/recyclagepark.js
+[DEBUG] from resource zip => assets/Resources/vuilzakken/restafval.js
+[DEBUG] from resource zip => assets/Resources/vuilzakken/snoeiresten.js
+[DEBUG] from resource zip => assets/Resources/app.js
+[DEBUG] from resource zip => assets/Resources/appicon.png
+[DEBUG] from resource zip => assets/Resources/default.png
+[DEBUG] from resource zip => assets/Resources/main.js
+[DEBUG] from resource zip => assets/Resources/overzichtKalender.js
+[DEBUG] from resource zip => assets/Resources/uitlegApp.js
+[DEBUG] from resource zip => assets/Resources/uitlegVuilzakken.js
+[DEBUG] from resource zip => assets/tiapp.xml
+[DEBUG] from resource zip => res/drawable/appicon.png
+[DEBUG] from resource zip => res/drawable/background.png
+[DEBUG] from resource zip => res/drawable/facebook_icon.png
+[DEBUG] from resource zip => res/drawable/facebook_login.png
+[DEBUG] from resource zip => res/drawable/facebook_login_down.png
+[DEBUG] from resource zip => res/drawable/facebook_login_wide.png
+[DEBUG] from resource zip => res/drawable/facebook_login_wide_down.png
+[DEBUG] from resource zip => res/drawable/facebook_logout.png
+[DEBUG] from resource zip => res/drawable/facebook_logout_down.png
+[DEBUG] from resource zip => res/layout/titanium_tabgroup.xml
+[DEBUG] from resource zip => AndroidManifest.xml
+[DEBUG] from resource zip => resources.arsc
+[DEBUG] from resource zip => res/drawable-hdpi/facebook_icon.png
+[DEBUG] from resource zip => res/drawable-ldpi/facebook_icon.png
+[DEBUG] from JAR C:\Users\nathalie\AppData\Roaming\Titanium\mobilesdk\win32\1.7.5\android\modules\titanium-facebook.jar => ti/modules/titanium/facebook/LICENSE
+[DEBUG] from JAR C:\Users\nathalie\AppData\Roaming\Titanium\mobilesdk\win32\1.7.5\android\titanium.jar => org/apache/Commons-NOTICE.txt
+[DEBUG] from JAR C:\Users\nathalie\AppData\Roaming\Titanium\mobilesdk\win32\1.7.5\android\titanium.jar => org/apache/HttpComponents-NOTICE.txt
+[DEBUG] from JAR C:\Users\nathalie\AppData\Roaming\Titanium\mobilesdk\win32\1.7.5\android\titanium.jar => org/apache/mime4j-NOTICE.txt
+[DEBUG] from JAR C:\Users\nathalie\AppData\Roaming\Titanium\mobilesdk\win32\1.7.5\android\titanium.jar => org/appcelerator/titanium/build.properties
+[DEBUG] from JAR C:\Users\nathalie\AppData\Roaming\Titanium\mobilesdk\win32\1.7.5\android\titanium.jar => org/appcelerator/titanium/res/drawable/background.png
+[DEBUG] from JAR C:\Users\nathalie\AppData\Roaming\Titanium\mobilesdk\win32\1.7.5\android\titanium.jar => org/appcelerator/titanium/res/drawable/btn_check_buttonless_on.png
+[DEBUG] from JAR C:\Users\nathalie\AppData\Roaming\Titanium\mobilesdk\win32\1.7.5\android\titanium.jar => org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_18.png
+[DEBUG] from JAR C:\Users\nathalie\AppData\Roaming\Titanium\mobilesdk\win32\1.7.5\android\titanium.jar => org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_48.png
+[DEBUG] from JAR C:\Users\nathalie\AppData\Roaming\Titanium\mobilesdk\win32\1.7.5\android\titanium.jar => org/appcelerator/titanium/res/drawable/btn_more.png
+[DEBUG] from JAR C:\Users\nathalie\AppData\Roaming\Titanium\mobilesdk\win32\1.7.5\android\titanium.jar => org/appcelerator/titanium/res/drawable/btn_more_18.png
+[DEBUG] from JAR C:\Users\nathalie\AppData\Roaming\Titanium\mobilesdk\win32\1.7.5\android\titanium.jar => org/appcelerator/titanium/res/drawable/btn_more_48.png
+[DEBUG] from JAR C:\Users\nathalie\AppData\Roaming\Titanium\mobilesdk\win32\1.7.5\android\titanium.jar => org/appcelerator/titanium/res/drawable/btn_picker_normal.9.png
+[DEBUG] from JAR C:\Users\nathalie\AppData\Roaming\Titanium\mobilesdk\win32\1.7.5\android\titanium.jar => org/appcelerator/titanium/res/drawable/btn_picker_pressed.9.png
+[DEBUG] from JAR C:\Users\nathalie\AppData\Roaming\Titanium\mobilesdk\win32\1.7.5\android\titanium.jar => org/appcelerator/titanium/res/drawable/btn_picker_selected.9.png
+[DEBUG] from JAR C:\Users\nathalie\AppData\Roaming\Titanium\mobilesdk\win32\1.7.5\android\titanium.jar => org/appcelerator/titanium/res/drawable/default_icon.png
+[DEBUG] from JAR C:\Users\nathalie\AppData\Roaming\Titanium\mobilesdk\win32\1.7.5\android\titanium.jar => org/appcelerator/titanium/res/drawable/photoDefault.png
+[DEBUG] from JAR C:\Users\nathalie\AppData\Roaming\Titanium\mobilesdk\win32\1.7.5\android\modules\titanium-yahoo.jar => ti/modules/titanium/yahoo/yahoo.js
+[DEBUG] from JAR C:\Users\nathalie\AppData\Roaming\Titanium\mobilesdk\win32\1.7.5\android\modules\titanium-ui.jar => ti/modules/titanium/ui/widget/webview/binding.js
+[DEBUG] from JAR C:\Users\nathalie\AppData\Roaming\Titanium\mobilesdk\win32\1.7.5\android\modules\titanium-ui.jar => ti/modules/titanium/ui/widget/webview/binding.min.js
+[DEBUG] from JAR C:\Users\nathalie\AppData\Roaming\Titanium\mobilesdk\win32\1.7.5\android\modules\titanium-ui.jar => ti/modules/titanium/ui/widget/webview/json2.js
+[DEBUG] from JAR C:\Users\nathalie\AppData\Roaming\Titanium\mobilesdk\win32\1.7.5\android\smalljs.jar => org/mozilla/javascript/resources/Messages.properties
+[DEBUG] from JAR C:\Users\nathalie\AppData\Roaming\Titanium\mobilesdk\win32\1.7.5\android\smalljs.jar => org/mozilla/javascript/resources/Messages_fr.properties
+[DEBUG] Waiting for device to be ready ...
+[TRACE] adb devices returned 1 devices/emulators
+[DEBUG] Device connected... (waited 0 seconds)
+[DEBUG] waited 0.053000 seconds on emulator to get ready
+[INFO] Installing application on device
 [INFO] Launching application ... afvalkalender
 [TRACE] Launch output: Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=be.afvalkalender/.AfvalkalenderActivity }
 
+[INFO] Deployed afvalkalender ... Application should be running.

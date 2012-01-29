@@ -1,7 +1,4 @@
-var win = Titanium.UI.createWindow({
-	title:'filteren met picker',
-	backgroundColor:'white'
-});
+var win = Titanium.UI.currentWindow;
 
 var picker = Titanium.UI.createPicker({
 	width:300,
@@ -66,7 +63,7 @@ xhr.onload = function()
 					text:afval,
 					color:'black',
 					left:15,
-					top:topPosition+20
+					top:topPosition+20,
 				});
 				var subLabelDate = Titanium.UI.createLabel({
 					text:datum,
@@ -113,5 +110,3 @@ xhr.onload = function()
 	});
 }
 xhr.send();
-
-win.open();
