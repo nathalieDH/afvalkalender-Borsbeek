@@ -10,8 +10,9 @@ Logfile initialized
 [TRACE] adb devices returned 1 devices/emulators
 [TRACE] adb devices returned 1 devices/emulators
 [TRACE] adb devices returned 1 devices/emulators
-[DEBUG] Device connected... (waited 25 seconds)
-[DEBUG] waited 25.460000 seconds on emulator to get ready
+[TRACE] adb devices returned 1 devices/emulators
+[DEBUG] Device connected... (waited 30 seconds)
+[DEBUG] waited 30.497000 seconds on emulator to get ready
 [INFO] Waiting for the Android Emulator to become available
 [DEBUG] be.afvalkalender installed? True
 [INFO] Fastdev server running, deploying in Fastdev mode
@@ -123,7 +124,7 @@ Logfile initialized
 [DEBUG] Waiting for device to be ready ...
 [TRACE] adb devices returned 1 devices/emulators
 [DEBUG] Device connected... (waited 0 seconds)
-[DEBUG] waited 0.053000 seconds on emulator to get ready
+[DEBUG] waited 0.066000 seconds on emulator to get ready
 [INFO] Installing application on device
 [INFO] Launching application ... afvalkalender
 [TRACE] Launch output: Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=be.afvalkalender/.AfvalkalenderActivity }

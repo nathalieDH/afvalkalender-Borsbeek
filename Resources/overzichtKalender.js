@@ -106,7 +106,6 @@ xhr.onload = function()
 			}
 			table.setData(filteredData);
 		}
-		table.setData(filteredData);
 	});
 }
 xhr.send();
